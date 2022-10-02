@@ -36,3 +36,5 @@ This data is KDDCUP’99 data set, which is widely used as one of the few public
 for network-based anomaly detection systems.
 
 For more about data: [Click here](http://www.unb.ca/cic/datasets/nsl.html)
+
+### For a more rigourous dive refer to the document [here](https://github.com/roderick0411/Network-Intrusion-Detection-System/blob/main/Hints%20for%20Final%20Projects%20%20-%20Network%20Intrusion%20Detection.pdf)
